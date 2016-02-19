@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+A copy of a repository on a remote machine can serve as a backup in case something happens to the local copy. A remote repository can also be accessed by others if your machine is off.
