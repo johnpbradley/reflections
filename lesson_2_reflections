@@ -26,3 +26,10 @@ the diagram the way we do?
 Merging two branches will update one of the branches to a new commit which
 contains the changes of both branches. We represent it the way we do because it
 clearly shows how far apart each branch head is from each other.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+Pros: a lot of times the merges will be trivial and would save on time & effort
+Cons: sometimes you will get problems if git merges two branches with unspotted
+conflicts.
