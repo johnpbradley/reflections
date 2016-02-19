@@ -3,3 +3,9 @@ work local?
 A copy of a repository on a remote machine can serve as a backup in case
 something happens to the local copy. A remote repository can also be accessed
 by others if your machine is off.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+You may not want the most recent changes in the branch you're currently working
+in. You might also want to keep the project you've downloaded in a working,
+stable state.
