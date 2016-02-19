@@ -20,3 +20,9 @@ and for "stable" versions.
 How do the diagrams help you visualize the branch structure?
 They give a more natural look to where the branches are in relation to the
 master branch, or even other branches.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+Merging two branches will update one of the branches to a new commit which
+contains the changes of both branches. We represent it the way we do because it
+clearly shows how far apart each branch head is from each other.
