@@ -11,3 +11,8 @@ change?
 After using git status to see that all of the files you've added are similar in
 scope, git diff --staged can be used to confirm that all of the changes are
 part of the same logical change.
+
+What are some situations when branches would be helpful in keeping your history
+organised? How would branches help?
+If you have a public repository, you can make a branch for "release" versions
+and for "stable" versions.
