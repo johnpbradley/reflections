@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history
 organised? How would branches help?
 If you have a public repository, you can make a branch for "release" versions
 and for "stable" versions.
+
+How do the diagrams help you visualize the branch structure?
+They give a more natural look to where the branches are in relation to the
+master branch, or even other branches.
