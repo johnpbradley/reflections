@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+An empty .git directory is created. If you didn't git init it wouldn't be there
