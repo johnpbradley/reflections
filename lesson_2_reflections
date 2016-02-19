@@ -1,2 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 An empty .git directory is created. If you didn't git init it wouldn't be there
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+The staging area is the in-between area where changes are setup to go into the
+repository. This allows greater control over what each commit commits.
