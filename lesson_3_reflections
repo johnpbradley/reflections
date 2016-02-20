@@ -29,3 +29,10 @@ and what would be harder?
 I think it would be harder in all cases unless the people I collaborate with
 agree to only make changes to different files at a time and keep in constant
 contact with each other when they need to edit someone else's file.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+If you don't want to potentially mess up a working version of the project,
+committing changes to a separate branch makes sense. It depends also on how the
+project is set up; if the project is designed so that only the repository owner
+may alter the main branch, then obviously there needs to be more branches.
