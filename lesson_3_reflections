@@ -23,3 +23,9 @@ stored locally?
 This allows you to work offline and still have Git know how much you've changed
 from the last time you checked. This also saves on unnecessary bandwidth usage,
 even if the transaction would only be a few kilobytes.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+I think it would be harder in all cases unless the people I collaborate with
+agree to only make changes to different files at a time and keep in constant
+contact with each other when they need to edit someone else's file.
