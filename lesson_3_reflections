@@ -9,3 +9,11 @@ automatically stay up-to-date with your remote repository?
 You may not want the most recent changes in the branch you're currently working
 in. You might also want to keep the project you've downloaded in a working,
 stable state.
+
+Describe the difference between forks, clones, and branches. When would you use
+one instead of another?
+Forks aren't a part of Git, but Github allows users to clone repositories of
+other users to their own repository. Clones are complete copies of a repository
+Branches are used to create alternate versions of a project without creating a
+whole new repository, since the branch may eventually merge with the original
+at some point.
