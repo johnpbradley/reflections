@@ -17,3 +17,9 @@ other users to their own repository. Clones are complete copies of a repository
 Branches are used to create alternate versions of a project without creating a
 whole new repository, since the branch may eventually merge with the original
 at some point.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+This allows you to work offline and still have Git know how much you've changed
+from the last time you checked. This also saves on unnecessary bandwidth usage,
+even if the transaction would only be a few kilobytes.
